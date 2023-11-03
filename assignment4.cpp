@@ -1,4 +1,4 @@
-1.)Predict the output :
+2.)Predict the output :
 
 #include<iostream>
 using namespace std;
